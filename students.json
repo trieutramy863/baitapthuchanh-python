@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "Thông tin sinh viên": {
+            "Họ tên": "ngo thi thuy linh",
+            "MSSV": "k22548",
+            "Lớp": "k58ktp",
+            "SĐT": "0337",
+            "Ngày sinh": "11/116/1162004",
+            "Địa chỉ hiện tại": "thai nguyen "
+        },
+        "Thông tin gia đình": {
+            "Địa chỉ gia đình": "thai nguyen",
+            "Họ tên bố": "luc ",
+            "Họ tên mẹ": "huyen"
+        }
+    }
+]
